@@ -223,8 +223,8 @@
                 </div>
             </div>
         </div>
-        </div>
-        <!-- <div class="about interest">
+       
+        <div class="about interest">
             <h2 class="title2">Interest</h2>
             <ul>
                 <li><i class="fa fa-trophy" aria-hidden="true"></i>Cricket</li>
@@ -232,8 +232,8 @@
                 <li><i class="fa fa-tree" aria-hidden="true"></i>Gardening</li>
                 <li><i class="fa fa-heart" aria-hidden="true"></i>Physical Activities</li>
             </ul>
-        </div> -->
-
+        </div>
+        </div>
     </div>
     </div>
 </body>
