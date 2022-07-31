@@ -24,11 +24,11 @@
         </div>
         <nav class="nav">
             <ul>
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./project.html">Projects</a></li>
-                <li><a href="./contact.html">Contact Us</a></li>
+                <li><a href="./index.php">Home</a></li>
+                <li><a href="./project.php">Projects</a></li>
+                <li><a href="./contact.php">Contact Us</a></li>
                 <li>
-                    <a class="btn" href="./img/yasirakram.pdf" type="submit" Download="YasirAkram">Download CV</a>
+                    <a class="btn" href="./img/YasirAkramCV.pdf" type="submit" Download="YasirAkram">Download CV</a>
                 </li>
             </ul>
         </nav>

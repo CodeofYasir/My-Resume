@@ -24,11 +24,11 @@
         </div>
         <nav class="nav">
             <ul>
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./project.html">Projects</a></li>
-                <li><a href="./contact.html">Contact Us</a></li>
+                <li><a href="./index.php">Home</a></li>
+                <li><a href="./project.php">Projects</a></li>
+                <li><a href="./contact.php">Contact Us</a></li>
                 <li>
-                    <a class="btn" href="./img/yasirakram.pdf" type="submit" Download="YasirAkram">Download CV</a>
+                    <a class="btn" href="./img/YasirAkramCV.pdf" type="submit" Download="YasirAkram">Download CV</a>
                 </li>
             </ul>
         </nav>
@@ -102,76 +102,81 @@
                             <div style="width: 100%;"></div>
                         </span>
                     </li>
-                    <li>
-                        <span class="text">Chinese</span>
-                        <span class="percent">
-                            <div style="width: 50%;"></div>
-                        </span>
-                    </li>
+
                 </ul>
             </div>
         </div>
         <div class="right_side">
-            <div class="main-text">
-                <h1>Projects</h1>
+            <div class="about">
+                <h2 class="title2">Objective</h2>
+                <p>To be able to work for an encouraging and stable company that will assist me in developing, improving
+                    and obtaining the necessary skills in order to become the best engineer possible.</p>
             </div>
-            <section class="project">
-                <article class="site">
-                    <div class="site-image">
-                        <img src="./img/img1.jpg" alt="">
+            <div class="about">
+                <h2 class="title2">Experience</h2>
+                <div class="box">
+                    <!-- <div class="year_company">
+                        <h5>2021 - present</h5>
+                        <h5>Company Name</h5>
+                    </div> -->
+                    <div class="text">
+                        <h4>Fresher</h4>
+                        <p>I have completed some projects on my own. As like Web Development project, after that i am
+                            also participated in the Final Year Project which we are completed as a team, and some other
+                            projects as well which are add in the projects menu already.</p>
                     </div>
-                    <div class="site-info">
-                        <h4>Snake Game(JavaScript)</h4>
-                        <a href="https://yasirgame.netlify.app/" class="btn ">open</a>
+                </div>
+                </h2>
+            </div>
+            <div class="about skills">
+                <h2 class="title2">Professional Skills</h2>
+                <div class="box">
+                    <h4>Html5</h4>
+                    <div class="percent">
+                        <div style="width: 100%;"></div>
                     </div>
-                </article>
-                <article class="site">
-                    <div class="site-image">
-                        <img src="./img/img2.PNG" alt="">
+                </div>
+                <div class="box">
+                    <h4>CSS3</h4>
+                    <div class="percent">
+                        <div style="width: 90%;"></div>
                     </div>
-                    <div class="site-info">
-                        <h4>Responsive Website(Html,Css)</h4>
-                        <a href="https://gettutor1.netlify.app" class="btn">open</a>
+                </div>
+                <div class="box">
+                    <h4>JavaScript</h4>
+                    <div class="percent">
+                        <div style="width: 80%;"></div>
                     </div>
-                </article>
-                <article class="site">
-                    <div class="site-image">
-                        <img src="./img/img4.PNG" alt="">
+                </div>
+                <div class="box">
+                    <h4>PHP</h4>
+                    <div class="percent">
+                        <div style="width: 50%;"></div>
                     </div>
-                    <div class="site-info">
-                        <h4>Social Media Website(Html,Css)</h4>
-                        <a href="https://fbsosho.netlify.app" class="btn">open</a>
+                </div>
+                <div class="box">
+                    <h4>Word Press</h4>
+                    <div class="percent">
+                        <div style="width: 80%;"></div>
                     </div>
-                </article>
-                <article class="site">
-                    <div class="site-image">
-                        <img src="./img/img5.PNG" alt="">
+                </div>
+                <div class="box">
+                    <h4>SQL</h4>
+                    <div class="percent">
+                        <div style="width: 90%;"></div>
                     </div>
-                    <div class="site-info">
-                        <h4>Tutor Doctor(Html,Css)</h4>
-                        <a href="https://tutordoctors.netlify.app" class="btn">open</a>
-                    </div>
-                </article>
-                <article class="site">
-                    <div class="site-image">
-                        <img src="./img/img6.PNG" alt="">
-                    </div>
-                    <div class="site-info">
-                        <h4>Find A Tutor(Html,Css,JavaScript)</h4>
-                        <a href="https://gettutor.netlify.app" class="btn">open</a>
-                    </div>
-                </article>
-                <article class="site">
-                    <div class="site-image">
-                        <img src="./img/img7.PNG" alt="">
-                    </div>
-                    <div class="site-info">
-                        <h4>By Using Bootstrap</h4>
-                        <a href="https://pratice-index.netlify.app" class="btn">open</a>
-                    </div>
-                </article>
+                </div>
+            </div>
+            <div class="about interest">
+                <h2 class="title2">Interest</h2>
+                <ul>
+                    <li><i class="fa fa-trophy" aria-hidden="true"></i>Cricket</li>
+                    <li><i class="fa fa-code" aria-hidden="true"></i>Development</li>
+                    <li><i class="fa fa-tree" aria-hidden="true"></i>Gardening</li>
+                    <li><i class="fa fa-heart" aria-hidden="true"></i>Physical Activities</li>
+                </ul>
+            </div>
 
-            </section>
         </div>
     </div>
 </body>
