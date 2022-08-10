@@ -179,6 +179,15 @@
                         <a href="https://manage-khataa.herokuapp.com/login.php" class="btn">open</a>
                     </div>
                 </article>
+                <article class="site">
+                    <div class="site-image">
+                        <img src="./img/img10.PNG" alt="">
+                    </div>
+                    <div class="site-info">
+                        <h4>Inventory Managment System</h4>
+                        <a href="https://inventory.ibexsols.co.uk/" class="btn">open</a>
+                    </div>
+                </article>
 
             </section>
         </div>
